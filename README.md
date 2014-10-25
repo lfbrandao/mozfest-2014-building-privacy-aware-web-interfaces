@@ -5,6 +5,8 @@ Building privacy-aware web interfaces
 
 **Saturday, October 25th :: 10am-1pm**
 
+https://festival.etherpad.mozilla.org/-kx-8AKg-1S
+
 ## Welcome!
 
 In this session you will learn about internet privacy by collaboratively creating new ways of raising awareness about how personal data is shared and aggregated online.
