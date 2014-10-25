@@ -43,7 +43,7 @@ At the end of the session, everyone will present their privacy-aware project and
 	
         [ ] Designer
         [ ] Hacker
-	[ ] Storyteller
+        [ ] Storyteller
         [ ] Student
         [ ] ______________________
 
