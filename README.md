@@ -37,7 +37,7 @@ At the end of the session, everyone will present their privacy-aware project and
             
  How can we show how the data collected can be used to create personal user profiles?            
 
-*Take 5-10 min to answer the following questions individually and share your answers with the group. This will help you find teammates that have ideas similar to yours. *
+*Take 5-10 min to answer the following questions individually and share your answers with the group. This will help you find teammates that have ideas similar to yours.*
 
 * What is your background?
 	
