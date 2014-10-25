@@ -41,11 +41,10 @@ At the end of the session, everyone will present their privacy-aware project and
 
 * What is your background?
 	
-        [ ] Data scientist
         [ ] Designer
-        [ ] Engineer
-        [ ] Journalist
-        [ ] Storyteller
+        [ ] Hacker
+	[ ] Storyteller
+        [ ] Student
         [ ] ______________________
 
 * Where will your project work?
